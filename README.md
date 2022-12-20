@@ -46,4 +46,4 @@ httpd.serve_forever()
 ![OUTPUT](./images/webserver.png)
 
 ## RESULT:
-super mame execute aagiduchu
+executed
